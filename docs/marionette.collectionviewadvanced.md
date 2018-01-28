@@ -41,7 +41,7 @@ a given indexer such as the view's model or collection, and more.
 
 The `buildChildView` is responsible for taking the ChildView class and
 instantiating it with the appropriate data. This method takes three
-parameters and returns a view instance to be used as thechild view.
+parameters and returns a view instance to be used as the child view.
 
 ```javascript
 buildChildView: function(child, ChildViewClass, childViewOptions){
